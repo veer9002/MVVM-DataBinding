@@ -9,6 +9,6 @@ import Foundation
 
 struct Constant {
     struct API {
-        static let productUrl = "https://fakestoreapi.com/users"
+        static let productUrl = "https://fakestoreapi.com/products"
     }
 }
